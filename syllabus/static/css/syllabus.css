@@ -13,7 +13,7 @@ body {
 }
 
 
-table .class-schedule: {
+table .class-schedule {
     background-color: rgb(240,224,178);
     color: rgb(0,102,0);
     margin: 5px;
@@ -35,6 +35,13 @@ tr.even {
     font-weight: bolder;
     font-size: 150%; 
     text-align: center; 
+}
+
+#currentWeek { 
+    font-weight: bolder;
+    font-size: 150%; 
+    text-align: center;
+    background-color: #6FDD6F !important; 
 }
 
 .class-schedule .topic {
