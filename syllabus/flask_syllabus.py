@@ -104,4 +104,4 @@ def format_arrow_date(date):
 # to localhost (127.0.0.1)
 #
 if __name__ == "__main__":
-    app.run(port=configuration.PORT, host="127.0.0.1")
+    app.run(port=configuration.PORT, host="0.0.0.0")

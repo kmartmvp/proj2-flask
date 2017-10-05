@@ -2,9 +2,10 @@
 # Second app: Flask project Creates a date-sensitive course schedule
 # (syllabus) that highlights the current week
 # 
-
+SHELL = /bin/bash
 SRC = syllabus
 SOURCES = $(SRC)/flask_syllabus.py $(SRC)/pre.py $(SRC)/credentials.ini
+
 
 
 $(SRC)/credentials.ini:
