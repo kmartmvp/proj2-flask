@@ -1,5 +1,5 @@
 ## Author
-Michael Hagel
+Michael Hagel, mhagel@uoregon.edu
 
 ## Github Repo Link
 https://github.com/kmartmvp/proj2-flask
